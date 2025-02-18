@@ -63,8 +63,8 @@
 **Task:** Create a **Newsletter** about **Industrial Visit 2**
 
 - **Deliverables:**
-  - **Figma Screenshot** (Uploaded in the repository)
-  - **Final Newsletter** (Uploaded in the repository)
+  - **Figma Screenshot** (Uploaded in the repo)
+  - **Final Newsletter** (Uploaded in the repo)
   
 📌 **Newsletter Requirement Highlights:**
 - Summary, Technologies Discussed, Reflection
